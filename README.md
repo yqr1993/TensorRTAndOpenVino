@@ -1,1 +1,1 @@
-# TensortAndOpenVino
+# TensorRTAndOpenVino
